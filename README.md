@@ -1,1 +1,2 @@
-# Note Taker Starter Code
+I tried and got some help and looked up stuff but I can't seem to get this project to work. I would work more on it but considering there is about two weeks left of the course I figured I need to work on some of the other missing assignments.
+If I pass this course, I plan on studying all the videos and work again. I will come back to this, but this is the best I can do for now.
